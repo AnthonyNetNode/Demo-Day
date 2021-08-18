@@ -1,0 +1,25 @@
+.btn {
+    text-align: center;
+}
+
+.head {
+    color:snow
+
+}
+
+.story {
+    color: snow
+}
+
+.list {
+    color: snow
+}
+
+body {
+    background-image: url("https://i.pinimg.com/originals/fc/e9/7e/fce97eba95fd3de922940e31f8ab8982.gif");
+    background-size: cover;
+}
+
+div {
+    color: snow;
+}
