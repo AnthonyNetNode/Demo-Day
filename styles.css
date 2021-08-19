@@ -1,0 +1,33 @@
+.btn {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.head {
+    width: 100%;
+}
+
+.story {
+    color: snow
+}
+
+.list {
+    text-align: center;
+    color: snow;
+    margin-top: 20px;
+    font-weight: 50px;
+    word-spacing: 15px;
+
+}
+
+body {
+    background: #000;
+}
+
+div {
+    
+    color: snow;
+}
+span {
+    text-decoration: underline;
+}
